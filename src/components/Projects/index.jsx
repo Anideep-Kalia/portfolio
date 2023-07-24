@@ -1,7 +1,7 @@
 import { useEffect } from "react";
-import mmatcher from "../../assets/images/mmatcher.png";
-import staffer from "../../assets/images/staffer.png";
-import pleet from "../../assets/images/pleet.png";
+import mmatcher from "../../assets/images/mmatcher.jpg";
+import staffer from "../../assets/images/staffer.jpg";
+import pleet from "../../assets/images/pleet.jpg";
 import { BsGithub, BsArrowRight } from "react-icons/bs";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
